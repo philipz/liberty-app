@@ -83,6 +83,12 @@
             <version>1.0.18</version>
             <scope>provided</scope>
         </dependency>
+        <dependency>
+            <groupId>io.swagger</groupId>
+            <artifactId>swagger-annotations</artifactId>
+	    <version>1.5.3</version>
+            <scope>provided</scope>
+        </dependency>
     </dependencies>
 
     <build>
